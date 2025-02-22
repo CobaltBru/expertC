@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Employee.054c19d5\\x64\\Debug\\Employee.ixx.obj",
+            "outputs": [
+                "C:\\Users\\user\\Documents\\expert\\EmployeeMangementSystem\\Employee.054c19d5\\x64\\Debug\\vc143.pdb",
+                "Employee.054c19d5\\x64\\Debug\\",
+                "C:\\Users\\user\\Documents\\expert\\EmployeeMangementSystem\\Employee.054c19d5\\x64\\Debug\\Employee.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Employee",
+                    "source-path": "c:\\users\\user\\documents\\expert\\employeemangementsystem\\employee.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

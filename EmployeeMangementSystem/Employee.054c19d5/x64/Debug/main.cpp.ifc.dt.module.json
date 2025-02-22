@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Employee.054c19d5\\x64\\Debug\\main.obj",
+            "outputs": [
+                "Employee.054c19d5\\x64\\Debug\\main.cpp.ifc.dt.module.json",
+                "Employee.054c19d5\\x64\\Debug\\main.cpp.ifc.dt.d.json"
+            ],
+            "requires": [
+                {
+                    "logical-name": "Employee"
+                },
+                {
+                    "logical-name": "iostream",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\iostream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

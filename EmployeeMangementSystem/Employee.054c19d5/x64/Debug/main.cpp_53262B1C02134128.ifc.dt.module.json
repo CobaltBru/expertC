@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Employee.054c19d5\\x64\\Debug\\main.obj",
+            "outputs": [
+                "Employee.054c19d5\\x64\\Debug\\main.cpp_53262B1C02134128.ifc.dt.module.json",
+                "Employee.054c19d5\\x64\\Debug\\main.cpp_53262B1C02134128.ifc.dt.d.json",
+                "Employee.054c19d5\\x64\\Debug\\main.cpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\user\\Documents\\expert\\EmployeeMangementSystem\\main.cpp",
+                    "source-path": "c:\\users\\user\\documents\\expert\\employeemangementsystem\\main.cpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

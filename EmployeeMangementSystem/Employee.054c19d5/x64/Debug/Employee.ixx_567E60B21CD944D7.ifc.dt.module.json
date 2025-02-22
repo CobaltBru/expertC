@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Employee.054c19d5\\x64\\Debug\\Employee.obj",
+            "outputs": [
+                "Employee.054c19d5\\x64\\Debug\\Employee.ixx_567E60B21CD944D7.ifc.dt.module.json",
+                "Employee.054c19d5\\x64\\Debug\\Employee.ixx_567E60B21CD944D7.ifc.dt.d.json",
+                "Employee.054c19d5\\x64\\Debug\\Employee.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Employee",
+                    "source-path": "c:\\users\\user\\documents\\expert\\employeemangementsystem\\employee.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

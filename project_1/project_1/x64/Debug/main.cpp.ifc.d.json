@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\expert\\project_1\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "employee",
+                "BMI": "C:\\Users\\user\\Documents\\expert\\project_1\\project_1\\x64\\Debug\\employee.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\iostream",
+                "BMI": "C:\\Users\\user\\Documents\\expert\\project_1\\project_1\\x64\\Debug\\iostream_DSWHEFD0YVUX4JXO.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\format",
+                "BMI": "C:\\Users\\user\\Documents\\expert\\project_1\\project_1\\x64\\Debug\\format_C1T5J4O02TH3Z33U.ifc"
+            }
+        ]
+    }
+}

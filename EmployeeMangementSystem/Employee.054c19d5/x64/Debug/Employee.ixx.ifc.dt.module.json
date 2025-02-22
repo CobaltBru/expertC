@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Employee.054c19d5\\x64\\Debug\\Employee.obj",
+            "outputs": [
+                "Employee.054c19d5\\x64\\Debug\\Employee.ixx.ifc.dt.module.json",
+                "Employee.054c19d5\\x64\\Debug\\Employee.ixx.ifc.dt.d.json",
+                "Employee.054c19d5\\x64\\Debug\\Employee.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Employee",
+                    "source-path": "c:\\users\\user\\documents\\expert\\employeemangementsystem\\employee.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "string",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\string",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

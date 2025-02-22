@@ -1,0 +1,38 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "project_1\\x64\\Debug\\main.obj",
+            "outputs": [
+                "project_1\\x64\\Debug\\main.cpp_FE909B7C5E3235B0.ifc.dt.module.json",
+                "project_1\\x64\\Debug\\main.cpp_FE909B7C5E3235B0.ifc.dt.d.json",
+                "project_1\\x64\\Debug\\main.cpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\user\\Documents\\expert\\project_1\\main.cpp",
+                    "source-path": "c:\\users\\user\\documents\\expert\\project_1\\main.cpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "employee"
+                },
+                {
+                    "logical-name": "iostream",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\iostream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "format",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\format",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

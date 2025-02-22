@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\expert\\employeemangementsystem\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\iostream",
+                "BMI": "C:\\Users\\user\\Documents\\expert\\EmployeeMangementSystem\\Employee.054c19d5\\x64\\Debug\\iostream_DSWHEFD0YVUX4JXO.ifc"
+            }
+        ]
+    }
+}
